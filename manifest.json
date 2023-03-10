@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "CPE-Autofull",
+    "version": "1.0",
+    "description": "An extension that help you auto-full CPE exam",
+    "content_scripts": [
+        {
+            "matches": ["https://cpe.cse.nsysu.edu.tw/cpe/newest"], 
+            "js": ["content.js"]
+        }
+    ]
+}
