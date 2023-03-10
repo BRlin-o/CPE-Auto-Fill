@@ -3,7 +3,7 @@
 ## Install
 1. 先從github上clone這個repo到您的電腦上。
    ```
-    git clone 
+    git clone https://github.com/BRlin-o/CPE-Auto-Fill
    ```
 2. 打開您的瀏覽器，並且進入擴充功能或附加元件的管理頁面。
 3. 開啟開發者模式或偵錯模式，並且選擇載入未封裝或暫存的擴充功能或附加元件。
